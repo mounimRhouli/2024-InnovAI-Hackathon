@@ -13,3 +13,20 @@ Our project, "MATE", seeks to solve this problem by building an intelligent reco
 2. **User Insights**: Data on how users interact with the system, which will guide future improvements.
 3. **Extensible Framework**: The system will be designed to expand into other service areas (restaurants, attractions, transport) in the future.
 4. **Documentation**: Clear instructions on how to set up and use the recommendation system.
+
+Here are the next steps in a simpler format:
+
+
+## Next Steps
+
+1. **Build the MVP**  
+   - Finalize the hotel recommendation system with essential features like budget, preferences, and location-based suggestions.
+
+2. **Test with Users**  
+   - Share the MVP with students, teachers, and schools to gather feedback.
+
+3. **Add More Features**  
+   - Enhance the system based on user feedback, adding more personalized options and improving the interface.
+
+4. **Beta Launch**  
+   - Launch the beta version to a wider audience and continue improving the system based on real-world usage.
