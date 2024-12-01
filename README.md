@@ -1,19 +1,15 @@
-### **"MATE"**: Personalized Recommendation Engine  
+# MATE: Personalized Recommendation Engine
 
-**Project Vision**  
-Our project, "MATE" is an intelligent recommendation engine designed to simplify decision-making for users by tailoring suggestions across various services, including restaurants, hotels, attractions, transport options, and local activities. By leveraging data on users' financial status, preferences, and specific needs, we aim to offer highly personalized recommendations that enhance their experiences and help them make informed choices effortlessly.  
+## Abstract
 
-**Our Approach**  
-We’ve chosen to begin with **hotel recommendations** as the first use case for our project. This step allows us to establish a robust foundation for understanding user behavior and fine-tuning our recommendation algorithms. Our hotel recommendation system personalizes suggestions by taking into account:  
+### Background and Problem Statement
+In today's world, decision-making has become increasingly complex due to the sheer number of choices available across various services, from hotels and restaurants to local attractions and transportation options. Personalized recommendations can help users navigate these choices, leading to better experiences. However, many existing recommendation systems lack a deep understanding of the user’s financial status, preferences, and specific needs, making the recommendations less relevant and effective.
 
-1. **Financial Status**: Adjusting recommendations based on the user's budget to ensure affordability.  
-2. **Preferences**: Catering to specific user needs such as preferred amenities (e.g., free Wi-Fi, pool, spa).  
-3. **Location**: Matching users to hotels near their desired location for convenience.  
+### Impact and Proposed Solution
+Our project, "MATE", seeks to solve this problem by building an intelligent recommendation engine that personalizes suggestions across different services. By analyzing users' financial status, preferences, and specific needs, we aim to deliver highly relevant recommendations that help users make more informed and enjoyable decisions. The system will start with hotel recommendations as a test case, providing users with personalized hotel suggestions based on their budget, preferred amenities, and desired location.
 
-**Why Start with Hotels?**  
-Hotels are central to travel and tourism, where the need for personalization is critical. A well-optimized hotel recommendation system can serve as a strong entry point into the broader domain of service recommendations. This approach allows us to:  
-
-- **Validate Our Framework**: Test our algorithms and personalization techniques in a focused domain.  
-- **Gain User Insights**: Collect feedback and usage patterns to refine our methods for future expansions into other services.  
-- **Showcase Tangible Impact**: Demonstrate how personalization adds value by helping users find their ideal stay effortlessly.  
-
+### Project Outcomes and Deliverables
+1. **Personalized Hotel Recommendation System**: A fully functioning recommendation engine tailored to the specific needs of the user.
+2. **User Insights**: Data on how users interact with the system, which will guide future improvements.
+3. **Extensible Framework**: The system will be designed to expand into other service areas (restaurants, attractions, transport) in the future.
+4. **Documentation**: Clear instructions on how to set up and use the recommendation system.
